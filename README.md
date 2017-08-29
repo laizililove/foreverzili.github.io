@@ -1,2 +1,2 @@
-# foreverzili.github.io
+# lazili.blog.github.io
 My own blog
